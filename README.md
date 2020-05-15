@@ -1,5 +1,5 @@
 # InstagramAutoLikeBot
-* IMPORTANT. This action will be blocked by instagram after using it for a few times. It is not maintaining anymore!
+* IMPORTANT. This action will be blocked by instagram after using it for a few times. It is not maintained anymore!
 
 It was designed to use web automation with Python selenium library to press likes on instagram posts.
 There are two input variables: 
