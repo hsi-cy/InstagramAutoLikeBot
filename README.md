@@ -7,3 +7,5 @@ There are two input variables:
 2. How many times you want to press like, which is equivelant to how many photos you want to press like.
 
 The program will go to the page of the designated hashtag and open the first picture and press like.
+
+
