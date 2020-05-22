@@ -3,6 +3,7 @@
 
 It was designed to use web automation with Python selenium library to press likes on instagram posts.
 There are two input variables: 
-1. A list of hashtags
-2. How many photo you want to press like
+1. A list of hashtags you want to loop through.
+2. How many times you want to press like, which is equivelant to how many photos you want to press like.
+
 The program will go to the page of the designated hashtag and open the first picture and press like.
